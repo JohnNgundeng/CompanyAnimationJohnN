@@ -126,8 +126,9 @@ local function Fries()
 
     -- makes the fries smaller 
     fries:scale(0.5,0.5)
-end 
+end  
 
+    -- create the second Fries 
 local function Fries2()
 
     -- creating the image 
@@ -161,7 +162,7 @@ local function Pizza()
     pizza:scale(0.5,0.5)
 end 
 
--- create the first ball 
+-- create the second pizza
 local function Pizza2()
 
     -- creating the image 
